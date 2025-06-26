@@ -1,14 +1,14 @@
-## 🏎️ Sobre o Projeto <br>
+# 🏎️ Sobre o Projeto <br>
 
 
-# 🏁 Olá! Este é um projeto de um **simulador de corrida do Mario Kart**.<br>
+## 🏁 Olá! Este é um projeto de um **simulador de corrida do Mario Kart**.<br>
 
 Bem-vindo ao **simulador de corrida do Mario Kart**, um jogo inspirado na clássica franquia da Nintendo, <br>
 desenvolvido com **JavaScript** e **Node.js**.  <br>
 
 
 Neste projeto, o objetivo foi recriar uma experiência  divertida com foco de melhorar meus conhecimentos<br>
- em ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white.<br>
+ em ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) .<br>
 
 Neste projeto, utilizei ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) para tornar o jogo mais dinâmico e interativo.  <br>
 
@@ -22,7 +22,12 @@ A proposta principal era **explorar conceitos fundamentais** de programação e 
 
 ## 🎮 Demonstração
 
-[![Watch the video](./assets/marioKart.png)](https://www.youtube.com/watch?v=EQ9SddsyZ3s)
+[![Watch the video](./assets/marioKart.png)](https://www.youtube.com/watch?v=EQ9SddsyZ3s) <br>
+
+
+
+🎥 Assista à demonstração completa no YouTube: [Clique aqui](https://www.youtube.com/watch?v=EQ9SddsyZ3s)
+
 
 
 
